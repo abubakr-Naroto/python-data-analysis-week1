@@ -1,0 +1,7 @@
+course-env/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+.~lock.*
